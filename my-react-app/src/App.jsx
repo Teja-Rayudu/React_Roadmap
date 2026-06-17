@@ -1,10 +1,10 @@
-import ComponentA from "./ComponentA.jsx";
+import ComponentC from "./ComponentC.jsx";
 
 function App() {
 
   return(
     <>
-      <ComponentA />
+      <ComponentC />
     </>
   );
 }
