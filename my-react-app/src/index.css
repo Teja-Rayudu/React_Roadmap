@@ -190,7 +190,7 @@ li{
   justify-content: center;
 } */
 
-body{
+/* body{
   background-image: url(assets/background.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -211,4 +211,10 @@ body{
   text-align: center;
   text-shadow: 3px 3px 5px white;
   margin-top: 20px;
+} */
+
+.box{
+  border: 3px solid black;
+  padding: 5px;
+  padding-left: 10px;
 }
