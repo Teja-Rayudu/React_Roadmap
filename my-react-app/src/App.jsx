@@ -1,10 +1,10 @@
-import ComponentD from "./ComponentD.jsx";
+import DigitalClock from "./DigitalClock.jsx"
 
 function App() {
 
   return(
     <>
-      <ComponentD />
+      <DigitalClock />
     </>
   );
 }
