@@ -1,10 +1,10 @@
-import ComponentD from "./ComponentD.jsx";
+import StopWatch from "./StopWatch.jsx";
 
 function App() {
 
   return(
     <>
-      <ComponentD />
+      <StopWatch />
     </>
   );
 }
